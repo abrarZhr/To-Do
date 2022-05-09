@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(194, 218, 239);
+}
+
+.Form{
+    /* justify-content: center;
+    align-items: center; */
+    margin-left: 40%;
+
+
+}
+
+.task{
+border: rebeccapurple solid;
+
+
+}
+
+.text{
+    display: flex;
+    border: saddlebrown solid
+   
+}
+
+.button{
+    position: relative;
+    left: 100px;
+    top: 25px;
+}
+
