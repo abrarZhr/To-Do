@@ -3,22 +3,22 @@
 }
 
 .Form{
-    /* justify-content: center;
-    align-items: center; */
+
     margin-left: 40%;
 
 
 }
 
 .task{
-border: rebeccapurple solid;
+position:absolute ;
 
 
 }
 
 .text{
     display: flex;
-    border: saddlebrown solid
+    position: relative;
+
    
 }
 
